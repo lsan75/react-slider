@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Swiper from 'swiper/dist/js/swiper'
-import '../node_modules/swiper/dist/css/swiper.css'
+import 'swiper/dist/css/swiper.css'
 import './App.css'
 
 import image1 from './monimage1.jpg'
